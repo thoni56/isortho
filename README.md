@@ -6,8 +6,8 @@ My first attempt at creating a keyboard - an ISO orthonlinear 65-ish keyb
 I became fascinated by keyboards around 2017, bought some really unorthodox ones, continued with 65%, keycaps, etc. etc. r/mechanicalkeyboards is a constant source of ideas.
 
 Exploring the concept of how a keyboard should actually look in terms of layout I had my eyes on the ortholinear stuff like the Plank, stumbled across the Atreus, which I of course got one.
-The Atreus is a 40% keyboard which has keys in vertical lines but staggered to match the lenght of your fingers.
-I also got very interested in the [https://thejoeblankenship.com/blogs/fletcher_keyboard/fletcher_keyboard.html](Fletcher keyboards).
+The Atreus is a 40% keyboard which has the keys in vertical columns but staggered horizontally to match the length of your fingers.
+I also got very interested in the [https://thejoeblankenship.com/blogs/fletcher_keyboard/fletcher_keyboard.html](Fletcher keyboards), which has a similar concept.
 
 But it is prohibitivly hard to learn to type effortlessly on a 40% keyboard, but I liked the ortholinear concept.
 It's just stupid that the non-balanced staggering of the keys on a normal keyboard.
