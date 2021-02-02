@@ -7,7 +7,7 @@ I became fascinated by keyboards around 2017, bought some really unorthodox ones
 
 Exploring the concept of how a keyboard should actually look in terms of layout I had my eyes on the ortholinear stuff like the Plank, stumbled across the Atreus, which I of course got one.
 The Atreus is a 40% keyboard which has the keys in vertical columns but staggered horizontally to match the length of your fingers.
-I also got very interested in the [https://thejoeblankenship.com/blogs/fletcher_keyboard/fletcher_keyboard.html](Fletcher keyboards), which has a similar concept.
+I also got very interested in the [Fletcher keyboards](https://thejoeblankenship.com/blogs/fletcher_keyboard/fletcher_keyboard.html), which has a similar concept.
 
 But it is prohibitivly hard to learn to type effortlessly on a 40% keyboard, but I liked the ortholinear concept.
 It's just stupid that the non-balanced staggering of the keys on a normal keyboard.
@@ -25,11 +25,11 @@ The goals is also that most of the non-alphanumeric keys are the same size as on
 ## The method
 
 - Make some statistical analysis of which size of keycaps are most often available in custom keycaps, e.g. if almost all kits have a 3U space bar, the layout should have that rather than a more uncommon 4U spacebar
-- Design a layout in [http://www.keyboard-layout-editor.com/](Keyboard Layout Editor)
-- Import the JSON definiton of that into [http://www.keyboard-layout-editor.com/](Keyboard Firmware Builder) where you also get your wiring diagram, QMK compatible firmware and a lot of other cool stuff!
-- Create the layout in KiCad using the help of guides like the one from [ruiqimao/keyboard-pcb-guide](ruiqimao)
-- Produce a PCB ([https://jlcpcb.com/](JLCPCB))
-- Produce a plate and case ([http://builder.swillkb.com/](Plate & Case Builder))
+- Design a layout in [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
+- Import the JSON definiton of that into [Keyboard Firmware Builder](http://www.keyboard-layout-editor.com/) where you also get your wiring diagram, QMK compatible firmware and a lot of other cool stuff!
+- Create the layout in KiCad using the help of guides like the one from [ruiqimao](https://github.com/ruiqimao/keyboard-pcb-guide)
+- Produce a PCB (maybe from [JLCPCB](https://jlcpcb.com/))
+- Produce a plate and case ([Plate & Case Builder](http://builder.swillkb.com/) )
 - Get switches, stabs, keycaps and all the other stuff
 - Put it together and cross your fingers!
 
